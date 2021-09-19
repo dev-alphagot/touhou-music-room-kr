@@ -1,0 +1,49 @@
+﻿  bgmlib.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  config.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  infostruct.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  libvorbis.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  packmethod.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  pm_bgmdat.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_zun.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  pm_bgmdir.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_bgmdir.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_zun.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  pm_tasofro.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\mt.hpp(44,41): warning C4838: 'RNG_MT::<unnamed-enum-N>'에서 'const ulong'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_tasofro.cpp(286,21): warning C4267: '=': 'size_t'에서 'uchar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_tasofro.cpp(327,21): warning C4477: 'sprintf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'FX::FXString'입니다.
+  utils.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  bgmlib.vcxproj -> C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib_thvorbis.lib

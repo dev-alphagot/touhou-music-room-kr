@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libogg_static", "libogg_static.vcproj", "{15CBFEFF-7965-41F5-B4E2-21E8795C9159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug __stdcall|Win32 = Debug __stdcall|Win32
+		Debug __stdcall|x64 = Debug __stdcall|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release __stdcall|Win32 = Release __stdcall|Win32
+		Release __stdcall|x64 = Release __stdcall|x64
+		Release_SSE|Win32 = Release_SSE|Win32
+		Release_SSE|x64 = Release_SSE|x64
+		Release_SSE2|Win32 = Release_SSE2|Win32
+		Release_SSE2|x64 = Release_SSE2|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Debug __stdcall|Win32.ActiveCfg = Debug __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Debug __stdcall|Win32.Build.0 = Debug __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Debug __stdcall|x64.ActiveCfg = Debug __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Debug|Win32.Build.0 = Debug|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Debug|x64.ActiveCfg = Debug|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release __stdcall|Win32.ActiveCfg = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release __stdcall|Win32.Build.0 = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release __stdcall|x64.ActiveCfg = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release_SSE|Win32.ActiveCfg = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release_SSE|Win32.Build.0 = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release_SSE|x64.ActiveCfg = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release_SSE2|Win32.ActiveCfg = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release_SSE2|Win32.Build.0 = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release_SSE2|x64.ActiveCfg = Release __stdcall|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release|Win32.ActiveCfg = Release|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release|Win32.Build.0 = Release|Win32
+		{15CBFEFF-7965-41F5-B4E2-21E8795C9159}.Release|x64.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

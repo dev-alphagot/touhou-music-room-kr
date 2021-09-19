@@ -1,0 +1,27 @@
+#define VS_FF_PRIVATEBUILD 8
+
+1       VERSIONINFO
+FILEVERSION     1,3,2\0
+FILEFLAGSMASK   0X3FL
+FILEFLAGS       VS_FF_PRIVATEBUILD
+FILEOS          0X40004L
+FILETYPE        0X2
+FILESUBTYPE     0
+BEGIN
+        BLOCK "StringFileInfo"
+        BEGIN
+                BLOCK "040904B0"
+                BEGIN
+                        VALUE "FileVersion", "libogg 1.2.1\r\nlibvorbis 1.3.2 (Schaufenugget)\0"
+                        VALUE "FileDescription", "Combined ogg/vorbis/vorbisfile decoder\0"
+			VALUE "LegalCopyright", "Copyright (c) 2002-2011 Xiph.org Foundation\0"
+                        VALUE "ProductName", "libogg, libvorbis, libvorbisfile\0"
+			VALUE "Homepage", "http://xiph.org\0"
+			VALUE "PrivateBuild", "Built by Nmlgc\0"
+                END
+        END
+        BLOCK "VarFileInfo"
+        BEGIN
+                VALUE "Translation", 0x0409, 0x04B0
+        END
+END

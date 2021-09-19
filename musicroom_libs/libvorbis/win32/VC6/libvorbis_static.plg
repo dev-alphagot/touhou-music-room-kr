@@ -1,0 +1,313 @@
+<html>
+<body>
+<pre>
+<h1>Erstellungsprotokoll</h1>
+<h3>
+--------------------Konfiguration: libvorbis_static - Win32 Debug--------------------
+</h3>
+<h3>Befehlszeilen</h3>
+Erstellen der temporären Datei  "C:\DOCUME~1\Nameless\LOCALS~1\Temp\RSPE1.tmp" mit Inhalten
+[
+/nologo /Gz /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_MBCS" /D "_LIB" /D "STDCALL" /FR"Debug/" /Fp"Debug/libvorbis_static.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Development\Visual C++\Libs\libvorbis\lib\analysis.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\barkmel.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\bitrate.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\block.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\codebook.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\envelope.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\floor0.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\floor1.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\info.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\lookup.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\lpc.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\lsp.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\mapping0.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\mdct.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\psy.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\registry.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\res0.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\sharedbook.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\smallft.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\synthesis.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\vorbisenc.c"
+"C:\Development\Visual C++\Libs\libvorbis\lib\window.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Nameless\LOCALS~1\Temp\RSPE1.tmp" 
+Erstellen der temporären Datei  "C:\DOCUME~1\Nameless\LOCALS~1\Temp\RSPE2.tmp" mit Inhalten
+[
+/nologo /out:"libvorbis_static_stdcall_d.lib" 
+".\Debug\analysis.obj"
+".\Debug\barkmel.obj"
+".\Debug\bitrate.obj"
+".\Debug\block.obj"
+".\Debug\codebook.obj"
+".\Debug\envelope.obj"
+".\Debug\floor0.obj"
+".\Debug\floor1.obj"
+".\Debug\info.obj"
+".\Debug\lookup.obj"
+".\Debug\lpc.obj"
+".\Debug\lsp.obj"
+".\Debug\mapping0.obj"
+".\Debug\mdct.obj"
+".\Debug\psy.obj"
+".\Debug\registry.obj"
+".\Debug\res0.obj"
+".\Debug\sharedbook.obj"
+".\Debug\smallft.obj"
+".\Debug\synthesis.obj"
+".\Debug\vorbisenc.obj"
+".\Debug\window.obj"
+]
+Erstellen der Befehlzeile "link.exe -lib @C:\DOCUME~1\Nameless\LOCALS~1\Temp\RSPE2.tmp"
+<h3>Ausgabefenster</h3>
+Kompilierung läuft...
+analysis.c
+barkmel.c
+c:\development\visual c++\libs\libvorbis\lib\barkmel.c(20) : warning C4007: 'main' : '__cdecl' muss angegeben werden
+bitrate.c
+c:\development\visual c++\libs\libvorbis\lib\bitrate.c(42) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\bitrate.c(43) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\bitrate.c(44) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\bitrate.c(51) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\bitrate.c(83) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\bitrate.c(88) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\bitrate.c(135) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+block.c
+c:\development\visual c++\libs\libvorbis\lib\block.c(863) : warning C4244: 'initializing' : Konvertierung von '__int64 ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\block.c(901) : warning C4244: 'initializing' : Konvertierung von '__int64 ' in 'long ', moeglicher Datenverlust
+codebook.c
+c:\development\visual c++\libs\libvorbis\lib\codebook.c(251) : warning C4554: '>>' : Pruefen Sie Operatorvorrang auf moegliche Fehler; verwenden Sie runde Klammern, um den Vorrang zu verdeutlichen
+envelope.c
+c:\development\visual c++\libs\libvorbis\lib\envelope.c(48) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\envelope.c(65) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\envelope.c(68) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\envelope.c(127) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\envelope.c(145) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+floor0.c
+c:\development\visual c++\libs\libvorbis\lib\floor0.c(126) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\floor0.c(137) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+floor1.c
+c:\development\visual c++\libs\libvorbis\lib\floor1.c(294) : warning C4244: 'initializing' : Konvertierung von 'float ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\floor1.c(518) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\floor1.c(519) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+info.c
+c:\development\visual c++\libs\libvorbis\lib\info.c(57) : warning C4244: '=' : Konvertierung von 'long ' in 'char ', moeglicher Datenverlust
+lookup.c
+lpc.c
+c:\development\visual c++\libs\libvorbis\lib\lpc.c(130) : warning C4244: 'return' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+lsp.c
+c:\development\visual c++\libs\libvorbis\lib\lsp.c(252) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\lsp.c(259) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\lsp.c(276) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\lsp.c(357) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\lsp.c(404) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\lsp.c(456) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\lsp.c(459) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+mapping0.c
+c:\development\visual c++\libs\libvorbis\lib\mapping0.c(272) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mapping0.c(318) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mapping0.c(335) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mapping0.c(393) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+mdct.c
+c:\development\visual c++\libs\libvorbis\lib\mdct.c(58) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mdct.c(66) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mdct.c(67) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mdct.c(68) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mdct.c(69) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mdct.c(72) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\mdct.c(73) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+psy.c
+c:\development\visual c++\libs\libvorbis\lib\psy.c(137) : warning C4244: 'function' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(139) : warning C4244: 'function' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(173) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(174) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(175) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(192) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(193) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(217) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(218) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(239) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(254) : warning C4244: '=' : Konvertierung von 'int ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(259) : warning C4244: '=' : Konvertierung von 'int ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(274) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(276) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(277) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(290) : warning C4305: '=' : Verkuerzung von 'const double ' in 'float '
+c:\development\visual c++\libs\libvorbis\lib\psy.c(291) : warning C4305: '=' : Verkuerzung von 'const double ' in 'float '
+c:\development\visual c++\libs\libvorbis\lib\psy.c(296) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(301) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(312) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(325) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(327) : warning C4244: 'function' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(336) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(348) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(402) : warning C4244: '=' : Konvertierung von 'float ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(404) : warning C4244: '=' : Konvertierung von 'const float ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(571) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(739) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(801) : warning C4305: '=' : Verkuerzung von 'const double ' in 'float '
+c:\development\visual c++\libs\libvorbis\lib\psy.c(807) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(814) : warning C4305: '=' : Verkuerzung von 'const double ' in 'float '
+c:\development\visual c++\libs\libvorbis\lib\psy.c(818) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(927) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(958) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(960) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(981) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(983) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(997) : warning C4244: '=' : Konvertierung von 'float ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1026) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1027) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1028) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1053) : warning C4244: '=' : Konvertierung von 'const double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1131) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1160) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1178) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\psy.c(1180) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+registry.c
+res0.c
+c:\development\visual c++\libs\libvorbis\lib\res0.c(427) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\res0.c(447) : warning C4244: '*=' : Konvertierung von 'float ' in 'int ', moeglicher Datenverlust
+sharedbook.c
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(55) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(56) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(67) : warning C4244: 'return' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(164) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(222) : warning C4244: 'initializing' : Konvertierung von 'long ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(223) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(242) : warning C4244: 'initializing' : Konvertierung von 'long ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(243) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\sharedbook.c(380) : warning C4244: '=' : Konvertierung von 'long ' in 'char ', moeglicher Datenverlust
+smallft.c
+c:\development\visual c++\libs\libvorbis\lib\smallft.c(99) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\smallft.c(100) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\smallft.c(283) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\smallft.c(284) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\smallft.c(853) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\smallft.c(854) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+synthesis.c
+vorbisenc.c
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(27) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(27) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(27) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(27) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(27) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(33) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(33) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(33) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(33) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(33) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(39) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(39) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(39) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(39) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(39) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(45) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(45) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(45) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(45) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(45) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(51) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(51) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(51) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(51) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\modes\psych_44.h(51) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(231) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(248) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(249) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(251) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(258) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(259) : warning C4244: 'initializing' : Konvertierung von 'float ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(271) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(272) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(273) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(274) : warning C4244: '=' : Konvertierung von 'float ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(276) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(277) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(278) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(282) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(284) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(285) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(286) : warning C4244: '=' : Konvertierung von 'float ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(289) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(291) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(292) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(312) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(338) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(345) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(346) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(347) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(348) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(349) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(351) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(354) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(362) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(377) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(383) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(388) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(398) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(403) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(410) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(417) : warning C4244: '+=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(429) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(430) : warning C4244: '=' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(447) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(529) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(593) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(622) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(659) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(660) : warning C4244: 'initializing' : Konvertierung von 'const double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(661) : warning C4244: 'initializing' : Konvertierung von 'double ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(717) : warning C4244: 'function' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(834) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(840) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(842) : warning C4244: '=' : Konvertierung von 'const double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(877) : warning C4244: '=' : Konvertierung von 'double ' in 'int ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(909) : warning C4305: '+=' : Verkuerzung von 'const double ' in 'float '
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(910) : warning C4305: '=' : Verkuerzung von 'const double ' in 'float '
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(958) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(960) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(970) : warning C4244: '=' : Konvertierung von 'long ' in 'float ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(981) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(1065) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(1081) : warning C4244: '=' : Konvertierung von 'double ' in 'long ', moeglicher Datenverlust
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(1084) : warning C4244: '=' : Konvertierung von 'const double ' in 'long ', moeglicher Datenverlust
+window.c
+c:\development\visual c++\libs\libvorbis\lib\vorbisenc.c(720) : warning C4761: Größenkonflikt im Argument. Konvertierung vorgenommen
+Bibliothek wird erstellt...
+Erstellen der temporären Datei  "C:\DOCUME~1\Nameless\LOCALS~1\Temp\RSPE3.tmp" mit Inhalten
+[
+/nologo /o"libvorbis_static.bsc" 
+".\Debug\analysis.sbr"
+".\Debug\barkmel.sbr"
+".\Debug\bitrate.sbr"
+".\Debug\block.sbr"
+".\Debug\codebook.sbr"
+".\Debug\envelope.sbr"
+".\Debug\floor0.sbr"
+".\Debug\floor1.sbr"
+".\Debug\info.sbr"
+".\Debug\lookup.sbr"
+".\Debug\lpc.sbr"
+".\Debug\lsp.sbr"
+".\Debug\mapping0.sbr"
+".\Debug\mdct.sbr"
+".\Debug\psy.sbr"
+".\Debug\registry.sbr"
+".\Debug\res0.sbr"
+".\Debug\sharedbook.sbr"
+".\Debug\smallft.sbr"
+".\Debug\synthesis.sbr"
+".\Debug\vorbisenc.sbr"
+".\Debug\window.sbr"]
+Erstellen der Befehlzeile "bscmake.exe @C:\DOCUME~1\Nameless\LOCALS~1\Temp\RSPE3.tmp"
+Browse-Informationsdatei wird erstellt...
+<h3>Ausgabefenster</h3>
+
+
+
+<h3>Ergebnisse</h3>
+libvorbis_static_stdcall_d.lib - 0 Fehler, 190 Warnung(en)
+</pre>
+</body>
+</html>

@@ -1,0 +1,566 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  tagger.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\tag_id3v2.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\tag_vorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  stream.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\stream.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\stream.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  pm_pbg6.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\pm_pbg6.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\pm.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_zun.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_tasofro.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  parse.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\enc_vorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\pm.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_zun.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\pm_tasofro.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\parse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  musicroom.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\th_tool_shared\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  mainwnd.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\widgets.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\parse.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\th_tool_shared\utils.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\th_tool_shared\LCDirFrame.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\encode.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\extract.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\scan.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\mainwnd.cpp(294,24): warning C4302: '형식 캐스트': 'void *'에서 'char'(으)로 잘립니다.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\mainwnd.cpp(605,30): warning C4302: '형식 캐스트': 'void *'에서 'ushort'(으)로 잘립니다.
+  extract.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\extract.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\packmethod.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  encode.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\encode.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\widgets.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\encode.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  enc_vorbis.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\enc_vorbis.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\extract.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\enc_vorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\libvorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\tag_vorbis.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\th_tool_shared\LCVorbisQuality.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  enc_custom.cpp
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\enc_custom.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\platform.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cstdlib(28,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(37,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(45,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(53,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(61,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(89,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(105,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(117,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(147,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(179,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(183,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(223,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(257,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(265,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\cmath(269,18): error C2059: 구문 오류: ')'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2589: '(': '::' 오른쪽에 잘못된 토큰이 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76): error C2062: 예기치 않은 'unknown-type' 형식입니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30037\include\xlocnum(76,23): error C2059: 구문 오류: ')'
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\list.cpp.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\bgmlib\config.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\AlphaGot\Desktop\Touhou Music Room Source\musicroom\extract.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  코드를 생성하고 있습니다...
