@@ -111,7 +111,7 @@ bool Encoder::Extract_Default(TrackInfo* TI, FXString& EncFN, GameInfo* GI, Extr
 	if(StopReq)	return StopReq = false;
 
 	// Encode
-	BGMLib::UI_Stat_Safe("인코딩 중...");
+	BGMLib::UI_Stat_Safe(L"인코딩 중...");
 
 	if(!Encode(EncFN, DumpFN, V))
 	{
@@ -159,7 +159,7 @@ bool Encoder_Custom::Encode(const FXString& DestFN, const FXString& SrcFN, Extra
 
 	if(!r)
 	{
-		Str.format("\nCouldn't start %s!\nPlease make sure this file exists in the directory of this application,\nor reconfigure your encoder settings.\n", CmdLine[0]);
+		Str.format("\n%s\n", CmdLine[0] + L"을(를) 실행할 수 없습니다!\n설치한 폴더에 파일이 존재하는 지 확인하시고,\n인코더 설정을 바꿔주세요.");
 		BGMLib::UI_Error_Safe(Str);
 		return false;
 	}
@@ -197,10 +197,10 @@ static BOOL CALLBACK EnumWndProc(HWND HWnd, LPARAM lParam)
 FXString Encoder_Custom::Init(GameInfo* GI)
 {
 	FXString Ret;
-	Ret.format("Command line: %s %s\n", CmdLine[0], CmdLine[1]);
+	Ret.format("%s %s\n", L"명령줄: " + CmdLine[0], CmdLine[1]);
 	if(GI->Vorbis)
 	{
-		Ret.append("WARNING: Performing lossy-to-");
+		Ret.append(L"경고: Performing lossy-to-");
 		if(this->Lossless)	Ret.append("lossless ");
 		else				Ret.append("lossy ");
 		Ret.append("encoding\n");
