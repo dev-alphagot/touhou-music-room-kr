@@ -326,7 +326,7 @@ bool Download(CURL* C, const FXString& URL, FXString* Buffer)
 	if(CRet != CURLE_OK)
 	{
 		Str = curl_easy_strerror(CRet);
-		Str.prepend("\nERROR: ");
+		Str.prepend(L"\n오류: ");
 		Str.append('\n');
 		BGMLib::UI_Stat(Str);
 		return false;
@@ -410,13 +410,13 @@ DL:
 	if(!Str.empty())
 	{
 		GI->WikiPage = Str;
-		Str.format("\n%s...", GI->WikiPage + L"(으)로 리다이렉션 확인 중입니다");
+		Str.format("\n%s...", GI->WikiPage + L"(으)로 리다이렉션 확인 중입니다.");
 		BGMLib::UI_Stat(Str);
 		goto DL;
 	}
 	// ----------------------
 
-	BGMLib::UI_Stat(L"\n ...완료되었습니다., 평가 중...\n");
+	BGMLib::UI_Stat(L"\n ...완료되었습니다., 파싱 중...\n");
 		
 	removeSub(Page, Face);
 	RemoveTemplate(Page, "\\{\\{lang\\|.*?\\|");

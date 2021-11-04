@@ -2,7 +2,7 @@
 // --------------------
 // enc_vorbis.cpp - Built-in Vorbis encoding
 // --------------------
-// "�" Nmlgc, 2011
+// "? Nmlgc, 2011
 
 #include "musicroom.h"
 #include <bgmlib/ui.h>
@@ -47,23 +47,23 @@ void Encoder_Vorbis::DlgCreate(FXVerticalFrame* Frame, FXDialogBox* Target, cons
 	VQ = new LCVorbisQuality(Frame, Quality);
 
 	MSFrame = new FXVerticalFrame(Frame, LAYOUT_FILL);
-		MS = new FXCheckButton(MSFrame, "Create chained bitstream output files where possible");
+		MS = new FXCheckButton(MSFrame, L"가능한 경우 연결된 비트스트림 출력 파일 생성하기");
 
 		new FXLabel(MSFrame,
-			"This is the recommended mode of operation.\n"
-			"\n"
-			"For lossless sources, the looping part will only be encoded once and copied for each\n"
-			"loop, instead of constructing a full looped and faded dump and encoding it in one go.\n"
-			"\n"
-			"If the game's BGM is already encoded in chained bitstream Ogg format, those streams\n"
-			"are copied without re-encoding. Fades are then re-encoded with the above quality.\n"
-			"\n"
-			"However, many players don't support chained bitstream Ogg files correctly, even though\n"
-			"this feature is explicitly stated in the Ogg specification. If the extracted files don't\n"
-			"work on your setup, disable this option, or trash your player (I recommend the latter).\n"
-			"\n"
-			"(If you share those files, choose an archiver that generates a high compression\n"
-			"ratio on those. This way, additional loops won't add to the archive size!)",
+			L"This is the recommended mode of operation. 권장하는 모드입니다.\n"
+			L"\n"
+			L"무손실 원본의 경우 반복부가 전부 합쳐진 후 인코딩되는 대신\n"
+			L"한 번만 인코딩한 다음 각각 복사됩니다.\n"
+			L"\n"
+			L"게임의 BGM이 이미 연결된 비트스트림 Ogg 포맷이라면 재인코딩 없이 그대로 복사하며\n"
+			L"페이드 효과는 더 높은 퀄리티로 재인코딩됩니다.\n"
+			L"\n"
+			L"하지만 많은 재생기들은 표준에 정의되어있는 연결된 비트스트림 Ogg 파일을\n"
+			L"제대로 지원하지 않습니다. 혹시 재생기가 파일을 지원하지 않는다면\n"
+			L"이 설정을 끄거나 재생기를 갖다버리세요. (후자 권장)\n"
+			L"\n"
+			L"(파일 공유가 목적이라면 고압축이 가능한 압축기를 사용하세요.\n"
+			L"추가 반복이 압축 파일의 크기에 영향을 미치지 않습니다!)",
 			NULL, LABEL_NORMAL | JUSTIFY_LEFT);
 
 	MS->setCheck(ChainStreamAssemble);

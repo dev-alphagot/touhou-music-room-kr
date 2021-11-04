@@ -76,7 +76,7 @@ public:
 		return f;
 	}
 
-	FadeAlg_Linear()	{Name = "Linear";}
+	FadeAlg_Linear()	{Name = L"선형";}
 	SINGLETON(FadeAlg_Linear);
 };
 
@@ -91,7 +91,7 @@ public:
 		return f;
 	}
 
-	FadeAlg_Exp()	{Name = "Exponential";}
+	FadeAlg_Exp()	{Name = L"지수함수";}
 	SINGLETON(FadeAlg_Exp);
 };
 
@@ -229,7 +229,7 @@ bool Extractor::PrepareInput(TrackInfo* TI, GameInfo* GI, Extract_Vals& V)
 		ulong Size;
 		bool ReadConn = false;
 		
-		BGMLib::UI_Stat_Safe("decoding...");
+		BGMLib::UI_Stat_Safe(L"디코딩 중...");
 
 		V.Buf = (char*)realloc(V.Buf, OV_BLOCK);
 
@@ -362,7 +362,7 @@ bool Extractor::Move(FXString& EncFN, FXString& OutFN)
 		FXString Str;
 		FXuint Cancel;
 
-		Str.format("Couldn't write %s!\nTarget directory may be write-protected. Cancel extraction?", OutFN);
+		Str.format("%s", OutFN + L" 파일에 쓸 수 없습니다!\n지정한 경로가 쓰기 금지 상태일 수 있습니다.\n추출을 중지하시겠습니까?");
 		MW->ThreadMsg(this, Str, &Cancel, MBOX_YES_NO);
 
 		if(Cancel == MBOX_CLICKED_YES)
@@ -383,8 +383,8 @@ uint Extractor::Tag(TrackInfo* TI, FXString& OutFN)
 {
 	if(!Active)	return Ret;
 
-	BGMLib::UI_Stat_Safe("tagging...");
-	if(Tagger::Inst().Tag(TI, OutFN, Ext) == SUCCESS)	BGMLib::UI_Stat_Safe("done.");
+	BGMLib::UI_Stat_Safe(L"태그 다는 중...");
+	if(Tagger::Inst().Tag(TI, OutFN, Ext) == SUCCESS)	BGMLib::UI_Stat_Safe(L"완료되었습니다.");
 
 	return Ret;
 }
@@ -414,7 +414,7 @@ bool Extractor::Start(const short& ExtStart, const short& ExtEnd, const ushort& 
 	Ext = Enc->Ext.lower();
 	V.FA = FAs.Get(MIN(FadeAlgID, FAs.Size() - 1))->Data;
 
-	Stat = "\nExtraction started.\n";
+	Stat = L"\n추출이 시작되었습니다.\n";
 	Stat.append(Enc->Init(ActiveGame));
 	Stat.append("-------------------\n");
 	BGMLib::UI_Stat_Safe(Stat);
@@ -445,7 +445,7 @@ int Extractor::run()
 		{
 			if(Ret != MBOX_CLICKED_YESALL && Ret != MBOX_CLICKED_NOALL)
 			{
-				Str = OutFN + " already exists.\nOverwrite?";
+				Str = OutFN + L"(이)가 이미 존재합니다.\n덮어쓰시겠습니까?";
 				MW->ThreadMsg(this, Str, &Ret, MBOX_YES_YESALL_NO_NOALL_CANCEL);
 			}
 			if(Ret == MBOX_CLICKED_CANCEL)	break;
@@ -473,9 +473,9 @@ bool Extractor::Finish()
 {
 	FXString Msg = "\n-------------------\n";
 
-	if(Ret == MBOX_CLICKED_CANCEL)	Msg += "Extraction canceled.";
-	else if(Ret == 0)				Msg += "Extraction stopped.";
-	else                          	Msg += "Extraction finished.";
+	if(Ret == MBOX_CLICKED_CANCEL)	Msg += L"추출이 취소되었습니다.";
+	else if(Ret == 0)				Msg += L"추출이 중지되었습니다.";
+	else                          	Msg += L"추출이 끝났습니다.";
 	Msg += "\n";
 	BGMLib::UI_Stat_Safe(Msg);
 

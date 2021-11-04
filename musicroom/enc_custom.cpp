@@ -58,8 +58,8 @@ void Encoder_Custom::DlgCreate(FXVerticalFrame* Frame, FXDialogBox* Target, cons
 		ExeFrame = new FXVerticalFrame(CLFrame, LAYOUT_FILL_Y);
 		OptFrame = new FXVerticalFrame(CLFrame, LAYOUT_FILL);
 
-		new FXLabel(ExeFrame, L"실행 파일:");
-		new FXLabel(OptFrame, L"옵션:");
+		new FXLabel(ExeFrame, L"실행 파일: ");
+		new FXLabel(OptFrame, L"옵션: ");
 
 		Cmd[0] = new FXTextField(ExeFrame, 15);	Cmd[0]->setText(CmdLine[0]);
 		Cmd[1] = new FXTextField(OptFrame, 30, NULL, 0, TEXTFIELD_NORMAL | LAYOUT_FILL_X);	Cmd[1]->setText(CmdLine[1]);
@@ -75,7 +75,7 @@ bool Encoder_Custom::DlgApply(FXDialogBox* Parent)
 		// Check if encoder executable is present
 		if(!FXStat::exists(NewEnc))
 		{
-			FXMessageBox::error((FXWindow*)MW->MW, MBOX_OK, PrgName.text(), "%s!", NewEnc + L"(을)를 찾을 수 없습니다");
+			FXMessageBox::error((FXWindow*)MW->MW, MBOX_OK, PrgName.text(), "%s!", NewEnc + L"(을)를 찾을 수 없습니다.");
 			return false;
 		}
 	}
@@ -200,10 +200,10 @@ FXString Encoder_Custom::Init(GameInfo* GI)
 	Ret.format("%s %s\n", L"명령줄: " + CmdLine[0], CmdLine[1]);
 	if(GI->Vorbis)
 	{
-		Ret.append(L"경고: Performing lossy-to-");
-		if(this->Lossless)	Ret.append("lossless ");
-		else				Ret.append("lossy ");
-		Ret.append("encoding\n");
+		Ret.append(L"경고: ");
+		if(this->Lossless)	Ret.append(L"무손실 코덱에서 ");
+		else				Ret.append(L"손실 코덱으로 ");
+		Ret.append(L"인코딩을 시도학고 있습니다.\n");
 	}
 	return Ret;
 }

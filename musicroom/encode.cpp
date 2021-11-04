@@ -2,7 +2,7 @@
 // --------------------
 // encode.cpp - Encoder base class and settings dialog
 // --------------------
-// "�" Nmlgc, 2011
+// "? Nmlgc, 2011
 
 #include "musicroom.h"
 #include <fx.h>
@@ -45,7 +45,7 @@ FXDEFMAP(EncSettingDlg) MMEncSettingDlg[] =
 FXIMPLEMENT(EncSettingDlg, FXDialogBox, MMEncSettingDlg, ARRAYNUMBER(MMEncSettingDlg));
 
 EncSettingDlg::EncSettingDlg(FXWindow *Parent)
-	: FXDialogBox(Parent, "Encoding settings", DECOR_TITLE | DECOR_BORDER | DECOR_CLOSE)
+	: FXDialogBox(Parent, L"인코딩 설정", DECOR_TITLE | DECOR_BORDER | DECOR_CLOSE)
 {
 	FXuint EncID = ES_UPDATE;
 	ListEntry<Encoder*>* CurEnc;
